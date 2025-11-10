@@ -29,8 +29,8 @@ params={"query": "Your Location"}  # e.g., "London", "SW7 2AZ"
 ## Example Output
 
 ```
-dict_keys(['listing_id', 'title', 'price', 'address', 'bedrooms', ...])
-{'display_address': '123 Example Street, South Kensington, London SW7'}
+dict_keys(['address', 'agent', 'attributes', 'flag', 'highlights', 'imageUris', 'isExpired', 'isFeatured', 'isPremium', 'listingId', 'location', 'pricing', 'shortPriceTitle', 'publicationStatus', 'tags', 'title'])
+Onslow Mews West, Kensington SW7
 ```
 
 ## License
